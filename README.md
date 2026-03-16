@@ -147,6 +147,6 @@ class JamieMyers:
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jamiemyers99.jamiemyers99)
 
-`// EOF — jamiemyers99 | Sligo, Ireland | 2026`
+`// EOF — jamiemyers99 | Ireland | 2026`
 
 </div>

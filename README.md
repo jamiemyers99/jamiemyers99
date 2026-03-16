@@ -133,7 +133,7 @@ class JamieMyers:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-jamiemyers99-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamiemyers99)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jamiemyers99@gmail.com)
 
 *// More links coming soon — systems being configured*
 
